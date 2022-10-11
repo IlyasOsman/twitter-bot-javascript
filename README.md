@@ -1,3 +1,3 @@
 # twitter-bot-javascript
-- npm install \n
+- npm install
 - npm start
